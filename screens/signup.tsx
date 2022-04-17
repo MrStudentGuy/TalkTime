@@ -1,6 +1,7 @@
 import { SafeAreaView, StyleSheet, Text, TextInput, View, TouchableOpacity } from 'react-native';
 
 function SignUpScreen() {
+
     return(
         <SafeAreaView style={Styles.container}>
             <Text style={Styles.Header}>Welcome to TalkTime</Text>
